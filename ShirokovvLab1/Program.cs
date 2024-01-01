@@ -6,7 +6,7 @@ class Program
 
     static void Main()
     {
-        // Входные данные
+        // Входные данныe
         const int N = 10; 
         double[] array = { -2.5, 1.0, 3.7, -4.2, 0.0, 5.6, -7.8, 9.3, -10.5, 6.1 }; 
         const double X = 3.0; 
